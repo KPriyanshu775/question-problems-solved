@@ -21,8 +21,6 @@ int main() {
         cout << n << " is not a prime number." << endl;
     }
     return 0;
-
-
     
 }
 
