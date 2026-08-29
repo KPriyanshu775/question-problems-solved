@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
@@ -124,5 +126,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
