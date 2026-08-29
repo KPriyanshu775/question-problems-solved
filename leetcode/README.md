@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0068-text-justification) |
+| [0345-reverse-vowels-of-a-string](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0345-reverse-vowels-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0088-merge-sorted-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0345-reverse-vowels-of-a-string) |
 ## Sorting
 |  |
 | ------- |
