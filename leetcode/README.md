@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0013-roman-to-integer) |
 | [0349-intersection-of-two-arrays](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0068-text-justification) |
 | [0088-merge-sorted-array](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0350-intersection-of-two-arrays-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -52,11 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0088-merge-sorted-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0350-intersection-of-two-arrays-ii) |
 ## Tree
 |  |
 | ------- |
@@ -81,4 +85,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
