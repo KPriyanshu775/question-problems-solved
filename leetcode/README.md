@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0066-plus-one) |
 | [0068-text-justification](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0068-text-justification) |
 | [0088-merge-sorted-array](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0118-pascals-triangle) |
 | [0349-intersection-of-two-arrays](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0350-intersection-of-two-arrays-ii) |
 ## Simulation
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0067-add-binary) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
