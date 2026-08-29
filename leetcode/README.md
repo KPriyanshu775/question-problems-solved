@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0350-intersection-of-two-arrays-ii) |
 ## Math
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0068-text-justification) |
 | [0168-excel-sheet-column-title](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0345-reverse-vowels-of-a-string) |
 ## Stack
 |  |
