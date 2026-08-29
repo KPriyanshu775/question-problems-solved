@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0058-length-of-last-word) |
 ## Stack
 |  |
 | ------- |
