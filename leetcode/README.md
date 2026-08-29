@@ -12,12 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0066-plus-one) |
+| [0067-add-binary](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0067-add-binary) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0067-add-binary) |
 | [0068-text-justification](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0068-text-justification) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0345-reverse-vowels-of-a-string) |
 ## Stack
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0067-add-binary) |
 | [0068-text-justification](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0068-text-justification) |
 ## Two Pointers
 |  |
@@ -86,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0350-intersection-of-two-arrays-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0067-add-binary) |
 <!---LeetCode Topics End-->
