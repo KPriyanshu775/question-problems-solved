@@ -38,8 +38,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0066-plus-one) |
 | [0068-text-justification](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0068-text-justification) |
+| [0088-merge-sorted-array](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0088-merge-sorted-array) |
 ## Simulation
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0068-text-justification) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
