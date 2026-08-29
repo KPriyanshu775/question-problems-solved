@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0013-roman-to-integer) |
+| [0349-intersection-of-two-arrays](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0066-plus-one) |
 | [0068-text-justification](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0068-text-justification) |
 | [0088-merge-sorted-array](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0349-intersection-of-two-arrays) |
 ## Simulation
 |  |
 | ------- |
@@ -49,10 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0088-merge-sorted-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0349-intersection-of-two-arrays) |
 ## Tree
 |  |
 | ------- |
@@ -73,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0104-maximum-depth-of-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
