@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0066-plus-one) |
 | [0067-add-binary](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0171-excel-sheet-column-number) |
 ## String
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0067-add-binary) |
 | [0068-text-justification](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0068-text-justification) |
 | [0168-excel-sheet-column-title](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0171-excel-sheet-column-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0345-reverse-vowels-of-a-string) |
 ## Stack
 |  |
