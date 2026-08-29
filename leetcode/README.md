@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0066-plus-one) |
 ## String
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0021-merge-two-sorted-lists) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/KPriyanshu775/question-problems-solved/tree/master/LeetCode/0066-plus-one) |
 <!---LeetCode Topics End-->
