@@ -10,14 +10,26 @@ int firstOccurrence(int arr[], int n, int target) {
         int mid = low + (high - low) / 2;
 
         if (arr[mid] == target) {
-            result = mid; // Update result and search in the left half
+            result = mid;
             high = mid - 1;
-        } else if (arr[mid] < target) {
+        }
+        else if (arr[mid] < target) {
             low = mid + 1;
-        } else {
+        }
+        else {
             high = mid - 1;
         }
     }
 
     return result;
+}
+
+int main() {
+    int arr[] = {1, 2, 2, 2, 3, 4, 5};
+    int n = 7;
+    int target = 6;
+
+    cout << firstOccurrence(arr, n, target);
+
+    return 0;
 }
